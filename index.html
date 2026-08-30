@@ -1,11 +1,100 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>MekenDeveloper</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MekenDeveloper - Applications Mobiles</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #f8fafc;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+            text-align: center;
+            margin-top: 4rem;
+        }
+        h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        p {
+            font-size: 1.15rem;
+            color: #94a3b8;
+            line-height: 1.6;
+            margin-bottom: 2.5rem;
+        }
+        .btn-group {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .btn {
+            background-color: #38bdf8;
+            color: #0f172a;
+            padding: 0.8rem 1.8rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 14px rgba(56, 189, 248, 0.3);
+        }
+        .btn:hover {
+            background-color: #0ea5e9;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(56, 189, 248, 0.4);
+        }
+        .btn-secondary {
+            background-color: transparent;
+            color: #f8fafc;
+            border: 2px solid #334155;
+            box-shadow: none;
+        }
+        .btn-secondary:hover {
+            background-color: #1e293b;
+            border-color: #475569;
+        }
+        footer {
+            margin-top: 4rem;
+            font-size: 0.9rem;
+            color: #64748b;
+        }
+    </style>
 </head>
 <body>
-    <h1>Bienvenue sur MekenDeveloper</h1>
+
+    <div class="container">
+        <h1>MekenDeveloper</h1>
+        <p>Bienvenue sur mon espace officiel. Je conçois et développe des applications mobiles innovantes pour simplifier votre quotidien.</p>
+        
+        <div class="btn-group">
+            <a href="#apps" class="btn">Découvrir mes apps</a>
+            <a href="mailto:votre-email@example.com" class="btn btn-secondary">Me contacter</a>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2026 MekenDeveloper. Tous droits réservés.
+    </footer>
+
 </body>
 </html>
-

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - ECR Quiz Biblique</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; color: #333; max-width: 800px; margin: auto; background: #f9f9f9; }
+        .container { background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Politique de Confidentialité – ECR Quiz Biblique</h1>
+        <p><strong>Dernière mise à jour : 2026</strong></p>
+        <p>La présente politique de confidentialité explique comment l'application ECR Quiz Biblique collecte, utilise et protège les informations des utilisateurs.</p>
+        
+        <h2>1. Collecte des données</h2>
+        <p>L'application ECR Quiz Biblique respecte votre vie privée.</p>
+        <p><strong>Données personnelles :</strong> L'application ne collecte, ne stocke et ne partage aucune donnée personnelle identifiable (telles que votre nom, adresse email, numéro de téléphone ou position géographique) sans votre consentement explicite.</p>
+        <p><strong>Progression et scores :</strong> Les scores, réponses et niveaux débloqués sont enregistrés localement sur votre appareil pour vous permettre de suivre votre progression dans le jeu.</p>
+        
+        <h2>2. Utilisation des données</h2>
+        <p>Les données stockées localement servent uniquement au bon fonctionnement du jeu (sauvegarde des scores, suivi des quiz). Elles ne sont transmises à aucun serveur externe.</p>
+        
+        <h2>3. Services tiers</h2>
+        <p>L'application peut utiliser des services tiers (ex. Google Play Services) pour assurer la stabilité technique ou l'affichage de publicités. Ces services peuvent collecter des identifiants anonymes liés à votre appareil conformément à leurs propres politiques de confidentialité.</p>
+        
+        <h2>4. Protection des enfants</h2>
+        <p>L'application est adaptée à tous les publics et ne collecte sciemment aucune information personnelle auprès des enfants.</p>
+        
+        <h2>5. Contact</h2>
+        <p>Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à l'adresse e-mail de support indiquée sur la fiche de l'application.</p>
+    </div>
+</body>
+</html>
+
